@@ -11,3 +11,9 @@ Best Mobile is a system implemented in Java using the OSGi framework (Open Servi
 It follows the microkernel architecture and deploys using the Eclipse Equinox. The system is created consisting of separate service bundles, with some acting as producers (publishers) and as consumers. There are four producers (publishers) and four consumers, each corresponding to one of these management areas: Customer, Supplier, Item, and Employee.
 
 
+Contribution
+
+Member 1 IT21377358 Hanshani S.G.H.S
+Member 2 IT21377280 Rajapaksha C. S.
+Member 3 IT21378270 Wimaladharma T. H. Y. B.
+Member 4 IT21355196 Kalpajith K.L.S.
