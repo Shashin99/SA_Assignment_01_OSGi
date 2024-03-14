@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Customer_Management_Subscriber
+Bundle-SymbolicName: Customer_Management_Subscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.osgi.customer_management_subscriber.ServiceActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: Customer.Management.Subscriber
+Import-Package: com.osgi.customer_management_publisher,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

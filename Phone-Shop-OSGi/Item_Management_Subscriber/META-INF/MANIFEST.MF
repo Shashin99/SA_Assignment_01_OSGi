@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Item_Management_Subscriber
+Bundle-SymbolicName: Item_Management_Subscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.osgi.item_management_subscriber.ServiceActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: Item.Management.Subscriber
+Import-Package: com.osgi.item_management_publisher,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

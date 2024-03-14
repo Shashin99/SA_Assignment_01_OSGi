@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Supplier_Management_Publisher
+Bundle-SymbolicName: Supplier_Management_Publisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.osgi.supplier_management_publisher.ServiceActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: Supplier.Management.Publisher
+Import-Package: com.osgi.phoneshopdb,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.osgi.supplier_management_publisher
